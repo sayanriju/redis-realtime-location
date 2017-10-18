@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "express": "^4.16.2",
+    "faker": "^4.1.0",
+    "faye": "^1.2.4",
+    "redis": "^2.8.0"
+  }
+}
