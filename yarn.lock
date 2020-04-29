@@ -141,9 +141,10 @@ faye-websocket@>=0.9.1:
   dependencies:
     websocket-driver ">=0.5.1"
 
-faye@^1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/faye/-/faye-1.2.4.tgz#978ed8a58f1d481e5c1f98bacb8959de5ec5c643"
+faye@^1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/faye/-/faye-1.2.5.tgz#f55edd3141db63d1d7a09a263e97bdd013905831"
+  integrity sha512-0wc9n6YxziRr1oPLsPF1JCzA5EK5y8+fw0MhhNNm/9reIMbwvhwyIJ/686A6j9WnUGLx3JrCm0m3SRfn2hRRjA==
   dependencies:
     asap "*"
     csprng "*"
