@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@google/maps": "^0.4.5",
-    "ejs": "^2.5.7",
+    "ejs": "^3.1.7",
     "express": "^4.16.2",
     "faye": "^1.2.4",
     "redis": "^2.8.0"
